@@ -5,10 +5,12 @@ Juego de la serpiente en c++
 🐍 Snake Game — C++
 📌 Descripción
 
+
 Juego clásico Snake desarrollado en C++ aplicando principios de Programación Orientada a Objetos, diseño limpio y lógica de sistemas. El proyecto evoluciona por fases, integrando persistencia de datos con SQL.
 
 🧠 Fases del proyecto
 🔹 Fase 1 — Core del juego
+
 
 Arquitectura orientada a objetos
 
@@ -23,6 +25,7 @@ C++ (POO, estructuras, lógica)
 
 🔹 Fase 2 — Persistencia de datos
 
+
 Integración con base de datos SQLite
 
 Guardado de partidas y puntajes
@@ -35,6 +38,7 @@ Tecnologías:
 SQL, SQLite, C++
 
 🔹 Fase 3 — Diseño y mejora
+
 
 Separación de responsabilidades
 
@@ -54,9 +58,13 @@ SQL (SQLite)
 
 Git / GitHub
 
+
+
 🎯 Objetivo del proyecto
 
 Demostrar habilidades en lógica, diseño de sistemas, estructuras de datos y persistencia, orientado a un perfil de backend junior.
+
+
 
 🚀 Posibles mejoras futuras
 
