@@ -6,8 +6,6 @@ Objetivo: que el proyecto demuestre diseño, lógica y criterio, no solo que “
 
 1️⃣ Arquitectura mínima obligatoria
 
-Si tu Snake está todo en main.cpp, es básico.
-Tiene que tener separación clara.
 
 Clases mínimas:
 
@@ -23,7 +21,7 @@ Input → manejo de teclas
 
 Score → puntaje y estado
 
-👉 Esto ya demuestra POO real.
+
 
 2️⃣ Reglas claras y estados
 
@@ -41,6 +39,8 @@ GAME_OVER
 
 Un enum bien usado suma mucho.
 
+
+
 3️⃣ Lógica no trivial
 
 Para no quedar básico, el Snake debe incluir:
@@ -56,6 +56,8 @@ Velocidad progresiva
 Spawn de comida que no aparezca sobre la serpiente
 
 Reinicio limpio del juego
+
+
 
 4️⃣ Diseño limpio
 
@@ -75,6 +77,8 @@ Encapsulación real
 
 No hace falta patrones complejos, pero orden sí.
 
+
+
 5️⃣ Extras que lo suben de nivel (no obligatorios)
 
 Elegí 1 o 2, no todo:
@@ -86,6 +90,8 @@ Configuración del juego (velocidad, tamaño)
 Modo pausa
 
 Tests simples de lógica (si te animás)
+
+
 
 🟢 FASE 2 — SQL aplicado (cuando Snake esté firme)
 
@@ -110,6 +116,8 @@ Ejemplo de tablas:
 users(id, username)
 games(id, user_id, score, duration, date)
 
+
+
 2️⃣ Operaciones mínimas obligatorias
 
 Tenés que demostrar:
@@ -126,15 +134,17 @@ JOIN → usuario + partidas
 
 Con eso ya sos backend junior.
 
+
 3️⃣ Tecnología recomendada
 
 Para no complicarte:
 
 SQLite (archivo local)
 
-C++ o Python como puente
+C++ 
 
 Queries escritas a mano (nada de magia)
+
 
 🟢 FASE 3 — Diseño + pensamiento backend
 
